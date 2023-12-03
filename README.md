@@ -11,8 +11,9 @@ Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-
-[22,27,16,2,18,6] #(n)
+Cevap
+-
+- [22,27,16,2,18,6] #(n)
 - 1.Adım --> [2,27,16,22,18,6] (2 sayısı ile 22 sayısı değişir.) #(n-1)
 - 2.Adım --> [2,6,16,22,18,27] (6 sayısı ile 27 sayısı değişir.) #(n-2)
 - 3.Adım --> [2,6,16,18,22,27] (18 sayısı ile 22 sayısı değişir.) #(1)
