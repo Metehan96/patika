@@ -22,9 +22,8 @@ Big-O Notation : n+(n-1)+(n-2)+1 --> (n*(n+1))/2 --> (n²+n)/2 --> O(n²)
 
 18 sayısı average case kapsamına girmektedir.
 
+Proje 1
 -
--
-
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 *İlk Dört Adım*
