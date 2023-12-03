@@ -25,6 +25,8 @@ Big-O Notation : n+(n-1)+(n-2)+1 --> (n*(n+1))/2 --> (n²+n)/2 --> O(n²)
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
+*İlk Dört Adım*
+
 - 1.Adım --> [2,3,5,8,7,9,4,15,6]
 - 2.Adım --> [2,3,4,8,7,9,5,15,6]
 - 3.Adım --> [2,3,4,5,7,9,8,15,6]
