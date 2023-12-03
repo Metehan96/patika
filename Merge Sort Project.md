@@ -17,6 +17,6 @@ Big-O gösterimini yazınız.
   - 1.Adım --> n
   - 2.Adım -->n/2
   - 3.Adım -->n/4
-  ...
-  n+(n/2)+(n/4)+ ... = n(1+(1/2)+(1/4)+...)= nlogn
-  Big-O: O(nlogn)
+  - ...
+  - n+(n/2)+(n/4)+ ... = n(1+(1/2)+(1/4)+...)= nlogn
+  - Big-O: O(nlogn)
